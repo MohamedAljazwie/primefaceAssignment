@@ -1,0 +1,9 @@
+#surefire
+#Fri Mar 24 20:35:01 EET 2023
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Mohamed.Aljazwiee\\Documents\\CRDB\\primefaceAssignment
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Mohamed.Aljazwiee\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.debugmode=true
+basedir=C\:\\Users\\Mohamed.Aljazwiee\\Documents\\CRDB\\primefaceAssignment
