@@ -1,0 +1,3 @@
+This steps help you to run and using this application 
+you should change configurations in hibernate.cfg.xml file 
+you should run the scripts that found in this path com.santechture.primefaceassignment.util.Employee_Table.sql
